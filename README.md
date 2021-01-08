@@ -1,8 +1,24 @@
 # web-project
-Blogger website
+Blogger website with dynamique posts , views , profil , categories , ••••
+
+# Project Description video
+
+https://user-images.githubusercontent.com/72217871/104023846-8b72e480-51c2-11eb-8635-3a22cdc94ab2.mp4
 
 # Project Description
-https://user-images.githubusercontent.com/72217871/104005316-383e6900-51a5-11eb-87b9-fe7e73070c70.mp4
+![Home](https://user-images.githubusercontent.com/72217871/104023163-85c8cf00-51c1-11eb-838b-ef6ed76ac6c7.png)
 
-(https://user-images.githubusercontent.com/72217871/104022538-b5c3a280-51c0-11eb-9036-dd83f228fb15.png)
+# ••••••
+![SIGN-UP-Admin-Panel](https://user-images.githubusercontent.com/72217871/104023374-df30fe00-51c1-11eb-8862-eef9fe2605af.png)
+# ••••••
+![SIGN-IN-Admin-Panel](https://user-images.githubusercontent.com/72217871/104023418-f1ab3780-51c1-11eb-90b8-a5eb9b11ba4d.png)
+# ••••••
+![Dashboard-Admin-Panel](https://user-images.githubusercontent.com/72217871/104023451-fe2f9000-51c1-11eb-9e4a-1ea94f0045ad.png)
+# ••••••
+![All-Posts-Admin-Panel](https://user-images.githubusercontent.com/72217871/104023541-1bfcf500-51c2-11eb-8221-2ac8b95a678e.png)
+# ••••••
+![Category-Admin-Panel](https://user-images.githubusercontent.com/72217871/104023637-3c2cb400-51c2-11eb-9381-443ba22886b6.png)
 
+# Created by : 
+
+<h1> Mohamed Ezzahi : (mohamed.ezzahi1987@gmail.com) </h1>
